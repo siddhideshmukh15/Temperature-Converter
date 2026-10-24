@@ -26,4 +26,4 @@ between Celsius, Fahrenheit,and Kelvin.
 - Include input validation.
 
 ## Author
-**Siddhi Deshmukh**
+Siddhi Deshmukh
